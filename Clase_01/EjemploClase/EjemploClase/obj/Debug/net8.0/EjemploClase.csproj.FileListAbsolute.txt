@@ -1,0 +1,14 @@
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\bin\Debug\net8.0\EjemploClase.exe
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\bin\Debug\net8.0\EjemploClase.deps.json
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\bin\Debug\net8.0\EjemploClase.runtimeconfig.json
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\bin\Debug\net8.0\EjemploClase.dll
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\bin\Debug\net8.0\EjemploClase.pdb
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\EjemploClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\EjemploClase.AssemblyInfoInputs.cache
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\EjemploClase.AssemblyInfo.cs
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\EjemploClase.csproj.CoreCompileInputs.cache
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\EjemploClase.dll
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\refint\EjemploClase.dll
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\EjemploClase.pdb
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\EjemploClase.genruntimeconfig.cache
+C:\Users\dfranco\source\repos\EjemploClase\EjemploClase\obj\Debug\net8.0\ref\EjemploClase.dll
