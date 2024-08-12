@@ -21,6 +21,11 @@ En esta clase, vimos los conceptos básicos de C# y cómo manejar errores utiliz
 - **Descripción:** En este ejemplo, vimos como implementar el bloque try/catch/finally con una implementación simple de una división por 0
 - **Archivos:** `Errores/Program.cs`
 - **Instrucciones:** Ejecuta el programa e ingresa diferentes valores para ver cómo se manejan las excepciones.
+- 
+- ## Ejemplo 05: Bucle `do-while` con manejo de errores
+- **Descripción:** Aquí implementamos un bucle `do-while` para seguir pidiendo números al usuario hasta que ingrese `0`, capturando las excepciones si se ingresan valores inválidos.
+- **Archivos:** `Ejemplo1/Program.cs`
+- **Instrucciones:** Ejecuta el programa e intenta ingresar diferentes tipos de datos para ver el manejo de errores.
 
 
 
