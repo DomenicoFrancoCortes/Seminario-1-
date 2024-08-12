@@ -1,0 +1,14 @@
+C:\Users\dfranco\source\repos\Errores\Errores\bin\Debug\net8.0\Errores.exe
+C:\Users\dfranco\source\repos\Errores\Errores\bin\Debug\net8.0\Errores.deps.json
+C:\Users\dfranco\source\repos\Errores\Errores\bin\Debug\net8.0\Errores.runtimeconfig.json
+C:\Users\dfranco\source\repos\Errores\Errores\bin\Debug\net8.0\Errores.dll
+C:\Users\dfranco\source\repos\Errores\Errores\bin\Debug\net8.0\Errores.pdb
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\Errores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\Errores.AssemblyInfoInputs.cache
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\Errores.AssemblyInfo.cs
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\Errores.csproj.CoreCompileInputs.cache
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\Errores.dll
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\refint\Errores.dll
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\Errores.pdb
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\Errores.genruntimeconfig.cache
+C:\Users\dfranco\source\repos\Errores\Errores\obj\Debug\net8.0\ref\Errores.dll
