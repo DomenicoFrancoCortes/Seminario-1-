@@ -4,7 +4,7 @@ En esta clase, vimos los conceptos básicos de C# y cómo manejar errores utiliz
 
 ## Ejemplo 01: Manejo de errores simple
 - **Descripción:** En este ejemplo, vimos cómo capturar una excepción de formato cuando se ingresa un valor no numérico.
-- **Archivos:** `Ejemplo_01/Program.cs`
+- **Archivos:** `Ejemploclase/Program.cs`
 - **Instrucciones:** Ejecuta el programa e ingresa diferentes valores para ver cómo se manejan las excepciones.
 
 ## Ejemplo 02: Bucle `do-while` con manejo de errores
