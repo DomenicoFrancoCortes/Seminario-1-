@@ -1,0 +1,14 @@
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\bin\Debug\net8.0\EjemploInterfaces.exe
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\bin\Debug\net8.0\EjemploInterfaces.deps.json
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\bin\Debug\net8.0\EjemploInterfaces.runtimeconfig.json
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\bin\Debug\net8.0\EjemploInterfaces.dll
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\bin\Debug\net8.0\EjemploInterfaces.pdb
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\EjemploInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\EjemploInterfaces.AssemblyInfoInputs.cache
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\EjemploInterfaces.AssemblyInfo.cs
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\EjemploInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\EjemploInterfaces.dll
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\refint\EjemploInterfaces.dll
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\EjemploInterfaces.pdb
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\EjemploInterfaces.genruntimeconfig.cache
+C:\Users\dfranco\source\repos\EjemploInterfaces\EjemploInterfaces\obj\Debug\net8.0\ref\EjemploInterfaces.dll
