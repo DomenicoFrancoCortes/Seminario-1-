@@ -16,6 +16,11 @@ En esta clase, vimos los conceptos básicos de C# y cómo manejar errores utiliz
 - **Descripción:** En este ejemplo, vimos una implementación real en el cual simulamos una Interfaz que su función es subir un archivo y creamos diferentes clases que implementan el metodo y transfieren ya sea a una nube o localmente el archivo.
 - **Archivos:** `EjemploInterfaces/Program.cs`
 - **Instrucciones:** Ejecuta el programa e ingresa diferentes valores para ver cómo se manejan las excepciones.
+- 
+- - ## Ejemplo 04: Manejo y control de errores
+- **Descripción:** En este ejemplo, vimos como implementar el bloque try/catch/finally con una implementación simple de una división por 0
+- **Archivos:** `Errores/Program.cs`
+- **Instrucciones:** Ejecuta el programa e ingresa diferentes valores para ver cómo se manejan las excepciones.
 
 
 
