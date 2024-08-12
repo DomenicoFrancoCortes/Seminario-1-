@@ -4,7 +4,7 @@ En esta clase, vimos los conceptos básicos de C# y cómo manejar errores utiliz
 
 ## Ejemplo 01: Repaso objetos
 - **Descripción:** Aquí implementamos clases, instanciamos y realizamos herencia.
-- **Archivos:** `Ejemplo_02/Program.cs`
+- **Archivos:** `Empresa/Program.cs`
 - **Instrucciones:** Ejecuta el programa e intenta ingresar diferentes tipos de datos para ver el manejo de errores.
 - 
 ## Ejemplo 02: Repaso objetos
