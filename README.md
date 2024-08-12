@@ -4,8 +4,6 @@ Bienvenido al repositorio del curso de C#. Aquí encontrarás todo el material v
 
 ## Índice de Clases
 - [Clase 01: Repaso POO, manejo y control de errores](/Clase_01)
-- [Clase 02: Estructuras de control y manejo de errores](./Clase_02)
-- [Clase 03: Arrays y colecciones](./Clase_03)
 - *(Agregar más clases según avance el curso)*
 
 ## Instrucciones
